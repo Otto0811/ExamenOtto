@@ -18,8 +18,8 @@ public class CeOcompositeApplication {
 		Empleado secretaria1=new Empleado("Ana","Marketing",3000);
 		Empleado secretaria2=new Empleado("Luisa","Marketing",3000);
 		
-		Empleado ventas1=new Empleado("Edwin","Ventas",4000);
-		Empleado ventas2=new Empleado("Carlos","Ventas",4000);
+		Empleado ventas1=new Empleado("Edwin","Ventas",4200);
+		Empleado ventas2=new Empleado("Carlos","Ventas",4200);
 		
 		
 		
